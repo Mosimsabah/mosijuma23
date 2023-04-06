@@ -1,0 +1,52 @@
+.mmm{
+    text-align: right;
+}
+button{
+    padding: 8px;
+    border-bottom: 9%;
+    border-color:blue;
+}
+button:hover{
+text-emphasis-color: white;
+background-color: blue;
+
+}
+.google{
+    text-align: center;
+    font-size: 90%;
+    font-style: italic;
+    font-display: 20%;
+}
+.kps{
+    text-align: center;
+    padding: 3%;
+    font-size: 40%;
+}
+.kk{
+    text-align: center;
+    font-size: 40%;
+}
+.hks{
+    text-align: right;
+}
+.nnn{
+    padding: 3%;
+}
+dd{
+
+    text-align: center;
+}
+.kk{
+    text-align: center;
+    font: size 35px;
+}
+input{
+    width: 10%;
+    padding: 10%;
+    border-radius: 10%;
+    border-color:rgb(white , green, blue) ;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+}
